@@ -12,11 +12,10 @@
 - Actualmente estoy aprendiendo Kotlin y desarrollo Android con Android Studio.
 
 ## 🛠️ Tecnologías que conozco
-![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Python](https://img.shields.io/badge/Python-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blueviolet)
-![Java](https://img.shields.io/badge/Java-17-red)
-![Git](https://img.shields.io/badge/Git-version-orange)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-1.9-orange)
-
+![Java](https://img.shields.io/badge/Java-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-orange)
+![Git](https://img.shields.io/badge/Git-orange)
