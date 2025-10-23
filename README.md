@@ -12,8 +12,13 @@
 - Actualmente estoy aprendiendo Kotlin y desarrollo Android con Android Studio.
 
 ## 🛠️ Tecnologías que conozco
-- ☕ **Java** – programación orientada a objetos y desarrollo de aplicaciones.  
-- 🐍 **Python** – scripts, lógica de programación y proyectos pequeños.  
-- 💻 **Kotlin** – aprendiendo desarrollo Android.  
-- ⚙️ **Git / GitHub** – control de versiones y trabajo colaborativo.  
-- 🧩 **VS Code** y **Android Studio** – entornos donde desarrollo mis proyectos.  
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blueviolet)
+![Java](https://img.shields.io/badge/Java-17-red)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![Git](https://img.shields.io/badge/Git-version-orange)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9-orange)
+
