@@ -42,11 +42,11 @@ Actualmente soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fullace3&show_icons=true&theme=tokyonight&hide_border=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullace3&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fullace3&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -109,7 +109,7 @@ Sistema CRUD desarrollado en Java con conexión a MySQL.
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/juan-lerma-224a21387/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-lerma-224a21387/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanlerma724@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fullace3)
 
@@ -118,9 +118,8 @@ Sistema CRUD desarrollado en Java con conexión a MySQL.
 ---
 
 <div align="center">
+
   
-  ### ⚡ "El código es poesía, la lógica es arte"
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO_GITHUB.TU_USUARIO_GITHUB)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fullace3.fullace3)
   
 </div>
