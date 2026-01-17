@@ -115,11 +115,3 @@ Sistema CRUD desarrollado en Java con conexión a MySQL.
 
 </div>
 
----
-
-<div align="center">
-
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fullace3.fullace3)
-  
-</div>
